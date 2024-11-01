@@ -1,0 +1,3 @@
+[submodule "wyoming_satellite_poc/cJSON"]
+	path = wyoming_satellite_poc/cJSON
+	url = https://github.com/DaveGamble/cJSON
